@@ -1,0 +1,19 @@
+.content {
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.avatar {
+  width: 200px;
+}
+.speakers {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 800px;
+}
+.speaker {
+  display: flex;
+  flex-direction: column;
+}
+
